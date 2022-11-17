@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs,React,Css,C#,SQL**
 
-- 👯 I’m looking to collaborate on **chalanging Projects that can improve my skills**
+- 👯 I’m looking to collaborate on **challenging Projects that can improve my skills**
 
 - 💬 Ask me about **react,JS,NextJS,C#**
 
